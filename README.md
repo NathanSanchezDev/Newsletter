@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/assets/images/icon-success.svg)
+![](/assets/images/illustration-sign-up-desktop.svg)
 ### Links
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
